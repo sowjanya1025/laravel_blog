@@ -7,10 +7,12 @@ Laravel Fundamentals -
   - Controllers
   - Views
   - Blade Templating engine
+  
 Laravel Database -
    -  Laravel Migrations
    -   Eloquent
    -  Eloquent Relationships
+   
 Laravel Forms and Validations
 Forms- Uplading files
 Middleware - Security/Protection
