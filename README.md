@@ -2,6 +2,7 @@
 Blogging Site created by Laravel
 
 Topics :
+
 Laravel Fundamentals -
   - Routes 
   - Controllers
