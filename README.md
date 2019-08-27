@@ -1,5 +1,6 @@
 # laravel_blog
 Blogging Site created by Laravel
+
 Topics :
 Laravel Fundamentals -
   - Routes 
